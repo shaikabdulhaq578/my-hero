@@ -1,2 +1,2 @@
 # my-hero
-A websie about my hero
+A website about my hero
